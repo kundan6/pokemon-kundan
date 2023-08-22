@@ -1,3 +1,3 @@
 # pokemon-kundan
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/pokemon-mania-hwbuyu)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/pokemon)
