@@ -1,0 +1,29 @@
+/* * {
+  font-family: Lato;
+} */
+
+/* body {
+  background-color: #eee !important;
+} */
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 4;
+}
+
+.pokemons {
+  display: flex;
+  flex-direction: column;
+}
+
+.pokemon {
+  min-width: 18rem;
+}
+
+.bg__primary {
+  background-color: #03045e;
+}
+
+.text__light {
+  color: #c2f9bb;
+}
